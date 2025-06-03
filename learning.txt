@@ -1,4 +1,1 @@
-The Git and GitHub course in the ALX Pathway has deepened my understanding 
-of version control systems. Before now, my experience with Git was
-limited to using commands in the terminal, but this course has expanded my knowledge by showing 
-how to manage repositories effectively and collaborate using GitHub.
+What I have learned from this course
